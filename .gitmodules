@@ -1,3 +1,0 @@
-[submodule "light-patch"]
-	path = light-patch
-	url = ./frontend/light-patch
