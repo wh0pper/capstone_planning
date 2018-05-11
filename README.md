@@ -6,6 +6,16 @@ This repository is intended to house explorative resources and code for my Epico
 * Real-time API with Rails
 * IoT technologies
 
+# Project Timeline
+| 5/11 | 5/12 & 5/13 | 5/14 | 5/15 | 5/16 | 5/17 | 5/18 and beyond |
+| ---- |-------------| ---- | ---- | ---- | ---- | --------------- |
+| Research & organize | Get LEDs running on Pi | Connect Pi behaviors to API | Build out functionality in front-end and API | Buffer day | Final touches for MVP | Build light object and keep making things better |
+| Setup Angular front-end and Rails API projects | Explore music-responsiveness with Pi | Continue with music-responsiveness | Continue with music-responsiveness |  | Demonstration | Make Pi and circuitry self-contained |
+
+
+
+
+
 
 # Relevant Links
 #### LEDs:
