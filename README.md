@@ -27,6 +27,7 @@ This repository is intended to house explorative resources and code for my Epico
 * [Webhooks with Rails](https://benediktdeicke.com/2017/09/sending-webhooks-with-rails/)
 * [Action Cable – Integrated WebSockets for Rails
 ](https://github.com/rails/rails/tree/master/actioncable)
+* [Make Rails API Realtime](https://engineering.musefind.com/make-your-rails-app-real-time-in-under-ten-minutes-cd5bd4a47f61)
 
 #### Raspberry PI:
 * [Ruby gem for using Pi's GPIO for PWM](https://github.com/ClockVapor/rpi_gpio)
