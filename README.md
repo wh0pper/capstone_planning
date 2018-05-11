@@ -4,7 +4,7 @@ This repository is intended to house explorative resources and code for my Epico
 # Learning objectives for capstone project
 * Event-driven programming with ruby
 * Real-time API with Rails
-*
+* IoT technologies
 
 
 # Relevant Links
