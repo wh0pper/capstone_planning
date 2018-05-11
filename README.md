@@ -1,6 +1,12 @@
 # Description
 This repository is intended to house explorative resources and code for my Epicodus capstone project, the working title of which is 'Light Patch.'
 
+# Learning objectives for capstone project
+* Event-driven programming with ruby
+* Real-time API with Rails
+*
+
+
 # Relevant Links
 #### LEDs:
 * [Dotstar overview](https://learn.adafruit.com/adafruit-dotstar-leds?view=all)
@@ -12,6 +18,9 @@ This repository is intended to house explorative resources and code for my Epico
 * [Action Cable – Integrated WebSockets for Rails
 ](https://github.com/rails/rails/tree/master/actioncable)
 
+#### Raspberry PI:
+* [Ruby gem for using Pi's GPIO for PWM](https://github.com/ClockVapor/rpi_gpio)
+* [Example project for using Dotstar LEDs with Pi](https://learn.adafruit.com/dotstar-pi-painter/overview)
 
 
 # Post-Epicodus Plan

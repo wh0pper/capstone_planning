@@ -1,0 +1,23 @@
+ [
+  {
+    "on": true,
+    "mode": "color_wheel",
+    "brightness": 0.7,
+    "schedule": null,
+    "timer": null
+  },
+  {
+    "on": false,
+    "mode": "responsive",
+    "brightness": 1.0,
+    "schedule": null,
+    "timer": 6000000
+  },
+  {
+    "on": true,
+    "mode": "wake-up",
+    "brightness": 0.3,
+    "schedule": 1526060352746,
+    "timer": 900000
+  }
+]
